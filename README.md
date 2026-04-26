@@ -1,9 +1,7 @@
 <div align="center">
  <h2>Hi I'm Alisha Asmat 👋</h2>
 
-
  <p align="center"> <img src="banner pic.png" width="100%" /></p>
-
 
 I'm currently pursuing a Bachelor's degree in Information Technology, actively working on improving my programming skills. My academic and personal learning journey is focused on building a solid foundation in **Web Development** while exploring new technologies. I am particularly passionate about **Full Stack Development**, and I aim to transition into **Software Development** as a long-term career path.
 </div>
@@ -13,6 +11,7 @@ I'm currently pursuing a Bachelor's degree in Information Technology, actively w
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alisha-tech21&label=Profile%20Views&color=7957d5&style=flat-square" alt="Visitor Counter" />
 </p>
+
 <table border="0">
   <tr style="border: none;">
     <td width="70%" style="border: none; vertical-align: top;">
@@ -35,12 +34,15 @@ I'm currently pursuing a Bachelor's degree in Information Technology, actively w
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alisha-tech21&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=7957d5&icon_color=bb9af7" alt="Stats Card" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisha-tech21&theme=tokyonight&background=0d1117&fire=7957d5&ring=bb9af7&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+
+  <!-- ✅ FIXED STREAK CARD -->
+  <img src="https://streak-stats.demolab.com?user=alisha-tech21&theme=tokyonight&background=0d1117&fire=7957d5&ring=bb9af7&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisha-tech21&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=7957d5&icon_color=bb9af7" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisha-tech21&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=7957d5&icon_color=bb9af7&langs_count=10" alt="Top Langs" width="45%" />
 </p>
+
 <br />
 <h2 align="center"> 🛠 Languages & Tools I Have Placed My Hands On </h2>
 
@@ -55,6 +57,7 @@ I'm currently pursuing a Bachelor's degree in Information Technology, actively w
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
+
 <br />
 <h2 align="center"> 💻 Tech Stack </h2>
 
