@@ -3,11 +3,17 @@
 
  <p align="center"> <img src="banner pic.png" width="100%" /></p>
 
-I'm currently pursuing a Bachelor's degree in Information Technology, actively working on improving my programming skills. My academic and personal learning journey is focused on building a solid foundation in **Web Development** while exploring new technologies. I am particularly passionate about **Full Stack Development**, and I aim to transition into **Software Development** as a long-term career path.
-</div>
+I'm a Bachelor's student in Information Technology with a strong focus on Web Development and Full Stack Development. I am actively seeking internship opportunities where I can apply my technical skills in real-world projects and gain industry experience.
 
+I have hands-on experience in building web applications using the MERN Stack, along with backend development, API integration, and database management. I am continuously improving my problem-solving skills and exploring modern software development practices.
+
+My goal is to grow as a Full Stack Developer and contribute to impactful, production-level applications while learning from experienced professionals.
+
+</div>
 <br /><br />
+
 ## 💫 About Me
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alisha-tech21&label=Profile%20Views&color=7957d5&style=flat-square" alt="Visitor Counter" />
 </p>
@@ -16,13 +22,14 @@ I'm currently pursuing a Bachelor's degree in Information Technology, actively w
   <tr style="border: none;">
     <td width="70%" style="border: none; vertical-align: top;">
       
-* ✨ I am currently working on developing my programming skills.
-* 💻 I worked on **.NET Framework** and have experience in building a **Cafe Management System** using **C#**.
-* Developed **TrendMesh** (FYP), a centralized multi-platform social media scheduler integrating **Facebook Graph**, **Instagram Graph**, and **TikTok Developer APIs**.
-* 💻 Experienced in backend logic, secure **JWT authentication**, and dynamic role-based access / whitelisting systems.
-* 🚀 Strong interest in **Web Development** and **Software Engineering**.
-* 📚 I love learning new things and building modern web applications.
-* 🔥 Current Focus:Advanced full-stack development using the **MERN Stack** (MongoDB, Express, React, Node.js).
+* ✨ Focused on building modern and scalable web applications using full stack technologies.
+* 🚀 Actively seeking an internship to apply and enhance my development skills in real-world projects.
+* 💻 Experience in **.NET (C#)** through a **Cafe Management System** project.
+* 🌐 Developed **TrendMesh (FYP)** — a multi-platform social media scheduler integrating **Facebook, Instagram, and TikTok APIs**.
+* ⚡ Built **DevHub** — an automated developer portfolio generator using GitHub integration.
+* 🔐 Skilled in backend development, **JWT authentication**, and role-based access control systems.
+* 🧠 Currently working with the **MERN Stack** to build modern web applications.
+* 📚 Continuously learning and improving problem-solving and system design skills.
       
     </td>
     <td width="30%" align="right" style="border: none; vertical-align: top;">
@@ -37,23 +44,24 @@ I'm currently pursuing a Bachelor's degree in Information Technology, actively w
 ### 🌐 TrendMesh — Multi-Platform Social Media Scheduler & Management System (FYP)
 <p align="left">
   <img src="https://img.shields.io/badge/MERN_Stack-MongoDB,_Express,_React,_Node-blue?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-JWT_&_Whitelisting-red?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Integrations-Meta_&_TikTok_APIs-green?style=flat-square&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Integration-Gemini_API-purple?style=flat-square&logo=google&logoColor=white" />
 </p>
 
-**TrendMesh** is a centralized, enterprise-level internal office tool designed to streamline content distribution and social media asset management across multiple global platforms simultaneously.
+A centralized, enterprise-level internal office tool designed to streamline content distribution and social media asset management across multiple global platforms.
+* **Key Features:** Automated post scheduling with **Node-Cron**, multi-platform API integration (Facebook, Instagram, TikTok), and **AI-powered caption/hashtag generation** using Gemini API.
+* **Security:** Implemented **JWT authentication**, **OTP verification**, and IP whitelisting.
+* 🔗 **[View TrendMesh on GitHub](https://github.com/alisha-tech21/TrendMesh)**
 
-#### 🛠 Core Architecture & Modules:
+### ⚡ DevHub — Automated Developer Portfolio Builder
+<p align="left">
+  <img src="https://img.shields.io/badge/MERN_Stack-React,_Node,_Express,_MongoDB-blue?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth-JWT_&_OTP-green?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
 
-* **📅 Advanced Post Scheduler:** Built a custom scheduling engine that allows team members to queue, time, and automate content delivery. It handles timezone syncs and automatically executes publication pipelines without manual intervention.
-
-* **📊 Centralized Account Management:** Designed a secure 'Shared Assets Model' where administrative tokens (Meta Graph & TikTok APIs) are managed server-side (`.env`). This allows multiple employees to manage official brand handles (Facebook Pages, Instagram Business, TikTok Tech Profiles) via a single unified dashboard without exposing raw password credentials.
-
-* **📝 Post Automation Engine:** Integrated official **Facebook Graph API**, **Instagram Graph API**, and **TikTok Developer API** to support media rendering, dynamic caption placement, and cross-platform multi-posting through a single action.
-
-* **🔒 Enterprise Security & Verification:** Implemented strict backend **Whitelisting Logics** (`ALLOWED_EMAILS` check) and dual-layer verification (OTP + JWT) to ensure unauthorized or external signups are blocked (`403 Forbidden`) from accessing company streams.
-
----
+A dynamic tool for developers to generate professional portfolios instantly by syncing with GitHub data.
+* **Key Features:** GitHub-synced portfolio generation, real-time contribution visualization, and a modern dark-themed UI built with **Tailwind CSS**.
+* **Security:** Robust user authentication system featuring **OTP-based login** and **JWT session management**.
+* 🔗 **[View DevHub on GitHub](https://github.com/alisha-tech21/DevHub)** | 🌐 **[Live Demo](https://dev-hub-ebon.vercel.app/)**
 
 ### ☕ Cafe Management System
 <p align="left">
@@ -62,14 +70,10 @@ I'm currently pursuing a Bachelor's degree in Information Technology, actively w
 </p>
 
 A desktop application built using **C#** and **MySQL** to manage daily cafe operations and automated billing.
-
-#### 🛠 Key Features:
-* **🛍️ Order Processing:** Easy interface to take orders, calculate total bills instantly, and process sales.
-* **🧾 Receipt Generation:** Automatically creates clear and detailed billing receipts for customers.
-* **📦 Product Management:** Full CRUD system to easily **Add, Update, or Delete** menu items, prices, and stock.
-* **👥 Customer Management:** Dedicated module to **Add Customers** and maintain their records.
-* **👁️ Order Tracking:** A robust **View Order** history log to track all previous transactions and sales data.
----
+* **Key Features:** Automated billing, receipt generation, product inventory management (CRUD), and historical order tracking.
+* 🔗 **[View Cafe System on GitHub](https://github.com/alisha-tech21/Cafe-Management-System)**
+  
+---------
 <br /><br />
 <h2 align="center"> 📊 GitHub Status </h2>
 
@@ -91,11 +95,11 @@ A desktop application built using **C#** and **MySQL** to manage daily cafe oper
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cs,dotnet&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cs,dotnet,tailwind,git,github&perline=6" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
 <br />
@@ -107,6 +111,7 @@ A desktop application built using **C#** and **MySQL** to manage daily cafe oper
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
 <p align="center">
@@ -122,6 +127,7 @@ A desktop application built using **C#** and **MySQL** to manage daily cafe oper
   <strong>Design & Tools:</strong><br />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
